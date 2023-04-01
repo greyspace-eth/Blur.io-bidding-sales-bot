@@ -45,12 +45,12 @@ A Node.js bot created to track bidding sales on blur.io for specific contract ad
 
 ### **License**
 
-### **Credits and Attribution**
+## **Credits and Attribution**
 * If you find this project helpful or use it in your own work: 
   * Please consider giving credit to the original author.
   * Feel free to buy me some coffee at '0x9C063A0d0eCd247DeDf3988b8F6C1e543e171cE9'.
 
-### **Additional**
+## **Additional**
 * Feel free to incoperate telegram bot to broadcast the information on telegram instead of desktop console.
 * Feel free to add more contract addresses to track. Just have to adjust the contract_address to an array and loop it.
 
