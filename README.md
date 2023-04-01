@@ -3,7 +3,8 @@
 ## **Description**
 A Node.js bot created to track bidding sales on blur.io for specific contract addresses. The bot listens to new Ethereum block headers and cross-checks them against the user-defined contract address. If a matching contract is found, it will output the bidding details such as token ID and token value in the console.
 
-![Image](/component-library/images/example-of-tracker.png)
+![example-of-tracker](https://user-images.githubusercontent.com/129596891/229293972-299e3a51-82f9-4f1e-afc5-921b8298b820.PNG)
+
 
 ## **Table of Contents**
 #### 1. <ins>Installation</ins>
